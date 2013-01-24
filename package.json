@@ -1,0 +1,25 @@
+{
+	"name": "GitHub Mac OS X Notifications",
+	"version": "0.1.0",
+	"description": "",
+	"main": "app.js",
+	"keywords": [],
+	"author": "",
+	"maintainers": [],
+	"contributors": [],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"preferGlobal": false,
+	"dependencies": {
+		"growl": "1.7.0",
+		"prompt": "0.2.9"
+	},
+	"engines": {
+		"node": "0.8.x",
+		"npm": "1.1.x"
+	},
+	"license": "",
+	"private": true
+}
