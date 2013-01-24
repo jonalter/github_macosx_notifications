@@ -121,7 +121,6 @@ function parse(res, output)
 		if (!output)
 		{
 			// Not modified.
-			console.log('Not modified.');
 			return;
 		}
 		var result = JSON.parse(output);
