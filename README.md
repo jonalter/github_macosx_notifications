@@ -8,7 +8,7 @@ Run the following in a terminal:
 	> npm install
 	> node app.js
 	
-You'll be asked once for your GitHub credentials, and a polling interval.
+You'll be asked once for your GitHub credentials, and a polling interval (in seconds).
  
 After that, your credentials will be stored in and read from ~/.github_notification.
 
